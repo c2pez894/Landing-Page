@@ -18,3 +18,10 @@ body{
     width: 100%;
     min-height: 22.5%;
 }
+.section1 {
+    padding-top: 3%;
+    width: 80%;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-bottom: 3%;
+}
