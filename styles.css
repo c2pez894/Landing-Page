@@ -150,3 +150,12 @@ body{
     align-items: center;
     justify-content: space-around;
 }
+.section4 {
+    padding-top: 70px;
+}
+.s4hs {
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 20px;
+}
