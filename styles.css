@@ -173,3 +173,10 @@ body{
     cursor: pointer;
     background-color: red;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: large;
+}
