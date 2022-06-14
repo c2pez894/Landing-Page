@@ -137,3 +137,16 @@ body{
     margin-right: 20%;
     font-weight: bold;
 }
+.s4box {
+    width: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    min-height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #3881f6;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
