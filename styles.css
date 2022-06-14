@@ -169,3 +169,7 @@ body{
     color: rgb(255, 255, 255);
     margin-right: 10px;
 }
+.s4btn:hover {
+    cursor: pointer;
+    background-color: red;
+}
