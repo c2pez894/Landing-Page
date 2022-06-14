@@ -76,3 +76,32 @@ body{
     font-size: 40px;
     padding-bottom: 20px;
 }
+.s2h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.b1container {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    border-radius: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.b1container:hover {
+    width: 250px;
+    height: 250px;
+}
+.s2boximg {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    border: 3px solid rgb(0, 0, 0);
+    transition: 0.5s;
+}
